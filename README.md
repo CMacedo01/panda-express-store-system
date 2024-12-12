@@ -9,19 +9,19 @@ The tech stack consists of:
 
 Key Features:
 
-    Manager View: One of the most successful elements of the system, featuring a clean and cohesive UI design. It eliminates the need for manual SQL queries, enabling seamless database interaction and providing significant value to users.
+Manager View: One of the most successful elements of the system, featuring a clean and cohesive UI design. It eliminates the need for manual SQL queries, enabling seamless database interaction and providing significant value to users.
 
-    Lockdown Kiosks: These kiosks offer high functionality and utility. They embed the site efficiently, incorporate touchscreen keyboards where needed, and restrict users from exiting the kiosk app, making them ideal for deployment on Windows and Linux-based systems.
+Lockdown Kiosks: These kiosks offer high functionality and utility. They embed the site efficiently, incorporate touchscreen keyboards where needed, and restrict users from exiting the kiosk app, making them ideal for deployment on Windows and Linux-based systems.
 
 Getting Started:
 
 To run the project locally:
 
-    Navigate to the project directory in your terminal.
-    Go to the panda/ folder.
-    Run the command:
+Navigate to the project directory in your terminal.
+Go to the panda/ folder.
+Run the command:
 
-npm install
+    npm install
 
 Then, run the command:
 
