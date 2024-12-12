@@ -1,0 +1,89 @@
+.app {
+	height: calc(var(--appsmith-ui-height) * 1px);
+	width: calc(var(--appsmith-ui-width) * 1px);
+	justify-content: center;
+	border-radius: var(--appsmith-theme-borderRadius);
+	box-shadow: var(--appsmith-theme-boxShadow);
+}
+
+.tip-container {
+  margin-bottom: 20px;
+}
+
+.tip-container h2 {
+  margin-bottom: 20px;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.tip-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+.tip-header div {
+	color: #999;
+}
+
+.button-container {
+	text-align: right;
+}
+
+.button-container button {
+  margin: 0 10px;
+	border-radius: var(--appsmith-theme-borderRadius);
+}
+
+.button-container button.primary {
+	background: var(--appsmith-theme-primaryColor) !important;
+}
+
+.button-container button.reset {
+	color: var(--appsmith-theme-primaryColor) !important;
+	border-color: var(--appsmith-theme-primaryColor) !important;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 16px;
+	padding: 16px;
+}
+
+.order-card {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 16px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.order-card h3 {
+	margin-bottom: 16px;
+	color: #333;
+	font-size: 18px;
+}
+
+.order-card h4 {
+	margin-top: 16px;
+	margin-bottom: 8px;
+	color: #555;
+}
+
+.meal-container {
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	margin-bottom: 16px;
+	background-color: #f9f9f9;
+}
+
+.meal-container p {
+	margin: 4px 0;
+}
+
+.order-card button.primary {
+	width: 100%;
+	margin-top: 16px;
+	font-weight: bold;
+}
