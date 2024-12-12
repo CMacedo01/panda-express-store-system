@@ -1,0 +1,1 @@
+<iframe id="embeddedAppsmith" src="https://198-58-96-145.ip.linodeusercontent.com/app/acc-kitchen-view/kitchen-674f9009d5791f1e84c31c4e?embed=true" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:100vh;"></iframe>
