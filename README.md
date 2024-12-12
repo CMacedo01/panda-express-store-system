@@ -29,6 +29,6 @@ Then, run the command:
 
 Notes:
 
-    Some login features have been disabled for convenience, allowing any user to access most of the website. However, certain pages are still restricted and require login tokens.
+Some login features have been disabled for convenience, allowing any user to access most of the website. However, certain pages are still restricted and require login tokens.
 
-    The Cashier and Customer pages, which I personally worked on, are fully functional without the need for tokens. You can switch between the Cashier and Customer views by simply changing the URL to end with either /cashier or /customer.
+The Cashier and Customer pages, which I personally worked on, are fully functional without the need for tokens. You can switch between the Cashier and Customer views by simply changing the URL to end with either /cashier or /customer.
