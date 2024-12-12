@@ -9,3 +9,7 @@ Navigate to the project directory in the terminal
 Navigate to the panda/ folder
 Run the command: npm install
 Run the command: npm run dev -- --open
+
+Note: 
+I disabled some of the login features to allow any user to have access to most of the website, but there are some pages that are innaccessible to due necessary login tokens. The Cashier and Customer pages are the main ones I personally worked on, and their full functionality is available without the need for tokens.
+To switch between Cashier and Customer views, simply change the URL to end with either /cashier or /customer. 
